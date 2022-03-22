@@ -11,12 +11,12 @@ name: 笑看山河的博客
 description: 博客版本更新啦~
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: beta.xilong.tk
+url: www.xilong.tk
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /beta
+baseurl: /
 
 
 #
@@ -79,7 +79,7 @@ disqus:
 gitalk:
   clientID: 59f1f826adc82c94a11e
   clientSecret: 01cb7107a31a252a852e3908aaf3d7656cd7b1db
-  repo: beta
+  repo: xdayo.github.io
   owner: xdayo
   proxy:
 
