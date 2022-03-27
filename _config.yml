@@ -81,7 +81,7 @@ gitalk:
   clientSecret: 01cb7107a31a252a852e3908aaf3d7656cd7b1db
   repo: xdayo.github.io
   owner: xdayo
-  proxy:
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
