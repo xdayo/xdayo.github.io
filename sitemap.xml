@@ -7,37 +7,79 @@
 >
 
 <url>
- <loc>https://xilong.tk</loc>
+ <loc>https://blog.xilong.tk</loc>
  <priority>0.3</priority>
  <lastmod>2022-03-25</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
 <url>
- <loc>https://xilong.tk/about</loc>
+ <loc>https://blog.xilong.tk/about</loc>
  <priority>0.3</priority>
  <lastmod>2022-03-25</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
 <url>
- <loc>https://xilong.tk/archive</loc>
+ <loc>https://blog.xilong.tk/archive</loc>
  <priority>0.3</priority>
  <lastmod>2022-03-25</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
 <url>
- <loc>https://xilong.tk/hello</loc>
+ <loc>https://blog.xilong.tk/hello</loc>
  <priority>0.3</priority>
  <lastmod>2022-03-25</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
 <url>
- <loc>https://xilong.tk/tags</loc>
+ <loc>https://blog.xilong.tk/tags</loc>
  <priority>0.3</priority>
  <lastmod>2022-03-25</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://blog.xilong.tk/guilin</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-03-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://blog.xilong.tk/test</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-03-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://blog.xilong.tk/aotpfcat-1</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-04-16</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://blog.xilong.tk/delayed-1</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-04-16</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://blog.xilong.tk/exsdl</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-04-17</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://blog.xilong.tk/notice</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-04-16</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
