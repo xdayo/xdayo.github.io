@@ -77,11 +77,11 @@ disqus:
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 59f1f826adc82c94a11e
-  clientSecret: 01cb7107a31a252a852e3908aaf3d7656cd7b1db
-  repo: xdayo.github.io
-  owner: xdayo
-  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
+  proxy: 
 
 # 输入Google Analytics web tracking code
 google_analytics:

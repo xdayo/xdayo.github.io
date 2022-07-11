@@ -83,4 +83,11 @@
  <changefreq>weekly</changefreq>
 </url>
 
+<url>
+  <loc>https://blog.xilong.tk/jjgk-to-future</loc>
+  <priority>0.3</priority>
+  <lastmod>2022-07-10</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+
 </urlset>
