@@ -34,4 +34,6 @@ author: 笑看山河 鑫鑫
 
 ---
 
-未经[原作者](mailto:reprint@xilong.tk)允许，严禁擅自转载。
+![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+
+本文章采用[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议进行许可。
