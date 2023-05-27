@@ -4,6 +4,7 @@ title: 由全国甲卷看未来高考的新趋势
 date: 2022-07-10
 tags: [数学]
 author: 笑看山河 鑫鑫
+license: CC-BY-NC 4.0 Intl
 ---
 
 2022年高考全国甲卷理科数学第16题：
@@ -34,6 +35,8 @@ author: 笑看山河 鑫鑫
 
 ---
 
-![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+[![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 
-本文章采用[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议进行许可。
+本文章采用[CC-BY-NC 4.0国际](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)协议进行许可(不包括引用的知识共享许可证徽章)。
+
+[联系作者](mailto:email@xilong.tk) · [侵权联系](mailto:tort@xilong.tk) —— 分享 · [QZone](https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fblog.xilong.tk%2Fjjgk-to-future%2F&title=%E7%94%B1%E5%85%A8%E5%9B%BD%E7%94%B2%E5%8D%B7%E7%9C%8B%E6%9C%AA%E6%9D%A5%E9%AB%98%E8%80%83%E7%9A%84%E6%96%B0%E8%B6%8B%E5%8A%BF&site=%E7%AC%91%E7%9C%8B%E5%B1%B1%E6%B2%B3%E7%9A%84%E5%8D%9A%E5%AE%A2) · [Weibo](https://service.weibo.com/share/share.php?url=https%3A%2F%2Fblog.xilong.tk%2Fjjgk-to-future%2F&count=1&title=%E7%94%B1%E5%85%A8%E5%9B%BD%E7%94%B2%E5%8D%B7%E7%9C%8B%E6%9C%AA%E6%9D%A5%E9%AB%98%E8%80%83%E7%9A%84%E6%96%B0%E8%B6%8B%E5%8A%BF&language=zh_cn)
